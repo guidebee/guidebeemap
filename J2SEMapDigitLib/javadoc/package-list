@@ -1,0 +1,12 @@
+com.mapdigit.drawing
+com.mapdigit.drawing.geometry
+com.mapdigit.gis
+com.mapdigit.gis.drawing
+com.mapdigit.gis.geometry
+com.mapdigit.gis.location
+com.mapdigit.gis.location.nmea
+com.mapdigit.gis.navigation
+com.mapdigit.gis.raster
+com.mapdigit.gis.service
+com.mapdigit.gis.vector
+com.mapdigit.licence

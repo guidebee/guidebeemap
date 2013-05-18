@@ -1,0 +1,2 @@
+del javadoc\*.html /S
+javadoc  -locale en_US -subpackages com.mapdigit.drawing:com.mapdigit.gis.drawing:com.mapdigit.gis.geometry:com.mapdigit.gis:com.mapdigit.licence -exclude com.mapdigit.drawing.geometry.parser:com.mapdigit.drawing.core:com.mapdigit.gis.service.google:com.mapdigit.gis.service.cloudmade:com.mapdigit.gis.service.mapabc:com.mapdigit.gis.vector.mapfile:com.mapdigit.gis.vector.rtree:com.mapdigit.gis.projection -windowtitle "MapDigit Digital Java API"  -doctitle "<H1>MapDigit Digital Map Java API</H1>" -public -d javadoc -sourcepath src 

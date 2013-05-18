@@ -1,0 +1,9 @@
+Project Name: AndroidMapDigitLib
+
+1) copy the source from J2SEMapDigitLib 
+   
+   
+2) com.mapdigit.gis.LicenceChecker
+   String appName="JavaSEDigitalMap";
+   
+   JavaSEDigitalMap-->AndroidDigitalMap

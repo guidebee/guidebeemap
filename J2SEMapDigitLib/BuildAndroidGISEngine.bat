@@ -1,0 +1,1 @@
+java -jar proguard.jar @androidgisengine.pro

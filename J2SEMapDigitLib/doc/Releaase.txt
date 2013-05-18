@@ -1,0 +1,4 @@
+RELEASE_X_X_X_YYYY_MM_DD
+Label format
+
+i.e. RELEASE_02_00_00_2010_09_04
