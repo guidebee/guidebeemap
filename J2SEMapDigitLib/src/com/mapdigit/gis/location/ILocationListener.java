@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2009 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -40,7 +40,7 @@ package com.mapdigit.gis.location;
  * and only use these methods to initiate the processing.
  * <P>
  * <hr>
- * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. </b>
  * @version     2.00, 06/03/09
  * @author      Guidebee Pty Ltd.
  */

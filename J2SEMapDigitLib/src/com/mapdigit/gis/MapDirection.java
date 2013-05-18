@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2009 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -27,7 +27,7 @@ import com.mapdigit.gis.geometry.GeoPolyline;
 /**
  *  This class is used to store driving directions results
  * <p></p>
- * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. </b>
  * @version     2.00, 17/10/09
  * @author      Guidebee Pty Ltd.
  */

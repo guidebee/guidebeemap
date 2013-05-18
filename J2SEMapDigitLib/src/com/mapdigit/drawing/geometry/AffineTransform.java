@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -101,7 +101,7 @@ import com.mapdigit.drawing.geometry.parser.TransformListParser;
  * approximately 0.0000000211 radians (or 0.00000121 degrees) around
  * small multiples of <code>Math.PI/2.0</code>.
  *
- * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. </b>
  * @version     2.00, 06/05/10
  * @author      Guidebee Pty Ltd.
  */

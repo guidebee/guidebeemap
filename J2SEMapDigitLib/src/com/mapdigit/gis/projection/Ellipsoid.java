@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2009 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -34,7 +34,7 @@ package com.mapdigit.gis.projection;
  * Earth in form and size, and which is used as a reference surface for geodetic
  * surveys. Used interchangeably with Spheriod.
  * <hr>
- * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. </b>
  * @version     2.00, 15/03/08
  * @author      Guidebee Pty Ltd.
  */

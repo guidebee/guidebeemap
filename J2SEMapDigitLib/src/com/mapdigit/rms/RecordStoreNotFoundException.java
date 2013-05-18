@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -22,7 +22,7 @@ package com.mapdigit.rms;
  * Thrown to indicate an operation could not be completed because the record
  * store could not be found.
  * <p>
- * <hr><b>&copy; Copyright 2010 Guidebee, Inc. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee, Inc. </b>
  * @version     1.00, 09/09/10
  * @author      Guidebee, Inc.
  */

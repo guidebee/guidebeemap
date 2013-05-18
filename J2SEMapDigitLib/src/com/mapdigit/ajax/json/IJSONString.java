@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY 
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -26,7 +26,7 @@ package com.mapdigit.ajax.json;
  * and <code>JSONWriter.value(</code>Object<code>)</code>. The 
  * <code>toJSONString</code> method will be used instead of the default behavior 
  * of using the Object's <code>toString()</code> method and quoting the result.
- * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. </b>
  * @version     2.00, 11/09/10
  * @author      Guidebee Pty Ltd. & JSON.org
  */

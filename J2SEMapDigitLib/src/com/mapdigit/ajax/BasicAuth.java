@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2009 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY 
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -23,7 +23,7 @@ package com.mapdigit.ajax;
  * This class encodes a user name and password
  * in the format (base 64) that HTTP Basic
  * Authorization requires.
- * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. </b>
  * @version     1.00, 01/01/09
  * @author      Guidebee Pty Ltd.
  */

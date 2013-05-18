@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2008 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -22,7 +22,7 @@ package com.mapdigit.drawing.geometry;
 /**
  * J2ME Fixed-Point Math Library. default all number shall be limited in range
  * between -8388608.999999 to 8388608.999999 (precision bit 20).
- * <hr><b>&copy; Copyright 2008 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2008 Guidebee Pty Ltd. </b>
  * @version     2.00, 01/11/08
  * @author      Guidebee Pty Ltd.
  */

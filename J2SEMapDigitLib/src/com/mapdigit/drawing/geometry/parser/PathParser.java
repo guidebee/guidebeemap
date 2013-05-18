@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -26,7 +26,7 @@ import com.mapdigit.drawing.geometry.Path;
  * <a href="http://www.w3.org/TR/SVGMobile/#sec-shapes">limitation</a> of SVG
  * Tiny which says that SVG Tiny does not support <code>arc to</code> commands.
  *
- * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. </b>
  * @version     2.00, 17/04/10
  * @author      Guidebee Pty Ltd.
  */

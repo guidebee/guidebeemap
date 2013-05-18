@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -35,7 +35,7 @@ import com.mapdigit.gis.drawing.IImage;
 ////////////////////////////////////////////////////////////////////////////////
 /**
  * Default Map Tile Engine.
- * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. </b>
  * @version     2.00, 09/07/10
  * @author      Guidebee Pty Ltd.
  */

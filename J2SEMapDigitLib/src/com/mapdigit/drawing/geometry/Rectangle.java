@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2008 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -102,7 +102,7 @@ package com.mapdigit.drawing.geometry;
  * the range of 32-bit integers, but zero dimension along one or both
  * axes, then the stored dimensions will be zero in those axes.
  *
- * <hr><b>&copy; Copyright 2008 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2008 Guidebee Pty Ltd. </b>
  * @version     2.00, 04/11/08
  * @author      Guidebee Pty Ltd.
  */

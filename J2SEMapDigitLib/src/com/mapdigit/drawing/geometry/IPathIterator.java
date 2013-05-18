@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY 
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -39,7 +39,7 @@ package com.mapdigit.drawing.geometry;
  * "CLOSE" segment to close the path might result in different line
  * style decorations being used at the end points of the subpath.
  *
- * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. </b>
  * @version     2.00, 09/05/10
  * @author      Guidebee Pty Ltd.
  */

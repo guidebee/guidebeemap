@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2009 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -31,7 +31,7 @@ import com.mapdigit.util.Log;
 /**
  * Map Client ,prvoide improved dynamic performance of the raster map.Asynchronized
  * for pan ,zoom in/zoom out.
- * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. </b>
  * @version     2.00, 23/10/09
  * @author      Guidebee Pty Ltd.
  */
@@ -759,7 +759,7 @@ public class MapClient extends RasterMap implements Runnable,IReaderListener {
 }
 /**
  * map operation
- * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. </b>
  * @version     2.00, 31/08/09
  * @author      Guidebee Pty Ltd.
  */
@@ -784,7 +784,7 @@ interface MapOperation {
 ////////////////////////////////////////////////////////////////////////////////
 /**
  * map operation parameters.
- * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. </b>
  * @version     2.00, 31/08/09
  * @author      Guidebee Pty Ltd.
  */

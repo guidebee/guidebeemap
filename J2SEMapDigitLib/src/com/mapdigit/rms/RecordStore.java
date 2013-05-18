@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -30,7 +30,7 @@ import java.util.Vector;
  * the integrity of the MIDlet's record stores throughout the normal use of the
  * platform, including reboots, battery changes, etc.
  * <p>
- * <hr><b>&copy; Copyright 2010 Guidebee, Inc. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee, Inc. </b>
  * @version     1.00, 09/09/10
  * @author      Guidebee, Inc.
  */

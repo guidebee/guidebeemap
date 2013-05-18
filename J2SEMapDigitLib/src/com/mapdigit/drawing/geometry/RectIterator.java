@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2008 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY 
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -23,7 +23,7 @@ import java.util.NoSuchElementException;
  * A utility class to iterate over the path segments of a rectangle
  * through the IPathIterator interface.
  *
- * <hr><b>&copy; Copyright 2008 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2008 Guidebee Pty Ltd. </b>
  * @version     2.00, 04/11/08
  * @author      Guidebee Pty Ltd.
  */

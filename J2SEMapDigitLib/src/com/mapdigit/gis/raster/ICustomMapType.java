@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2011 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -20,7 +20,7 @@ package com.mapdigit.gis.raster;
 /**
  * Defines the map types and relations between map types.
  * <hr>
- * <hr><b>&copy; Copyright 2011 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2011 Guidebee Pty Ltd. </b>
  * @version     2.00, 24/01/11
  * @author      Guidebee Pty Ltd.
  */

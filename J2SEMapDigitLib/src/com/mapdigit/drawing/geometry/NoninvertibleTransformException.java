@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2008 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY 
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -24,7 +24,7 @@ package com.mapdigit.drawing.geometry;
  * an exception that is thrown if an operation is performed requiring
  * the inverse of an {@link AffineTransform} object but the 
  * <code>AffineTransform</code> is in a non-invertible state.
- * <hr><b>&copy; Copyright 2008 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2008 Guidebee Pty Ltd. </b>
  * @version     2.00, 08/11/08
  * @author      Guidebee Pty Ltd.
  */

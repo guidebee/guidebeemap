@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -32,7 +32,7 @@ import com.mapdigit.drawing.geometry.parser.PathParser;
 /**
  * Vector font class. each font is described by SVG path string internally.
  * <p>
- * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. </b>
  * @version     2.00, 21/04/10
  * @author      Guidebee Pty Ltd.
  */
@@ -652,7 +652,7 @@ public class FontEx {
 ////////////////////////////////////////////////////////////////////////////////
 /**
  * Header of font file.
- * <hr><b>&copy; Copyright 2010 Guidebee, Inc. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee, Inc. </b>
  * @version     2.00, 21/04/10
  * @author      Guidebee, Inc.
  */
@@ -677,7 +677,7 @@ class FontHeader {
 ////////////////////////////////////////////////////////////////////////////////
 /**
  * Index of font file.
- * <hr><b>&copy; Copyright 2010 Guidebee, Inc. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee, Inc. </b>
  * @version     2.00, 21/04/10
  * @author      Guidebee, Inc.
  */

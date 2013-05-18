@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2007 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -55,7 +55,7 @@ package com.mapdigit.util;
  * relation defined by the objects' {@link Object#equals(Object)
  * equals(Object)} method(s):<pre>
  *     {(x, y) such that x.equals(y)}. </pre><p>
- * <hr><b>&copy; Copyright 2007 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2007 Guidebee Pty Ltd. </b>
  * @version     1.00, 07/07/07
  * @author      Guidebee Pty Ltd.
  */

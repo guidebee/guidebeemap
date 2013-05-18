@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -27,7 +27,7 @@ import com.mapdigit.gis.geometry.GeoLatLngBounds;
 /**
  *  This class is used to store driving directions results
  * <p></p>
- * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. </b>
  * @version     2.00, 11/09/10
  * @author      Guidebee Pty Ltd.
  */

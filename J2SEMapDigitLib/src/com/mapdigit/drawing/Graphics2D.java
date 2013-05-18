@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -42,7 +42,7 @@ import com.mapdigit.drawing.core.SolidBrushFP;
  * coordinate transformations, color management, and text layout. This is the
  * fundamental class for rendering 2-dimensional shapes, text and images
  * on the JavaME platform.
- * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. </b>
  * @version     2.00, 21/04/10
  * @author      Guidebee Pty Ltd.
  */

@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2009 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -21,7 +21,7 @@ package com.mapdigit.gis;
 ////////////////////////////////////////////////////////////////////////////////
 /**
  * Map symbol used to display a point.
- * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. </b>
  * @version     2.00, 03/01/09
  * @author      Guidebee Pty Ltd.
  */

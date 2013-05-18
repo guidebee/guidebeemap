@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -19,7 +19,7 @@ package com.mapdigit.gis.service;
 /**
  * This class defines the map service key for different map servers. i.e.
  * Google map key, bing map key, MapAbc Key ,OpenStreet Map Key.
- * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee Pty Ltd. </b>
  * @version     2.00, 28/12/10
  * @author      Guidebee Pty Ltd.
  */

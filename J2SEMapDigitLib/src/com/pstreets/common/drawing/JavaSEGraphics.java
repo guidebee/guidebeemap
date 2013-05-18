@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2010 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       Name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -27,7 +27,7 @@ import java.awt.Graphics;
 ////////////////////////////////////////////////////////////////////////////////
 /**
  * Java SE implemeation of the IGraphics interface.
- * <hr><b>&copy; Copyright 2010 Guidebee, Inc. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2010 Guidebee, Inc. </b>
  * @version     1.00, 09/09/10
  * @author      Guidebee Pty Ltd.
  */

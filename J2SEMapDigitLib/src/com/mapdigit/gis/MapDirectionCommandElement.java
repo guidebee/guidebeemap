@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2009 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -25,7 +25,7 @@ package com.mapdigit.gis;
  * [Command]-[Adj]-[Road Name]-[Adj]-[Road Name].
  * loosely speaking, 3 elements is enough for a whole command.
  * [Command]-[Road Name]-[Road Name]
- * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2009 Guidebee Pty Ltd. </b>
  * @version     2.00, 18/08/09
  * @author      Guidebee Pty Ltd.
  */

@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //                         COPYRIGHT 2009 GUIDEBEE
-//                           ALL RIGHTS RESERVED.
-//                     GUIDEBEE CONFIDENTIAL PROPRIETARY
+//                           
+//                     
 ///////////////////////////////////// REVISIONS ////////////////////////////////
 // Date       name                 Tracking #         Description
 // ---------  -------------------  ----------         --------------------------
@@ -23,7 +23,7 @@ import com.mapdigit.gis.geometry.GeoLatLng;
 /**
  *  Class MapMultiPoint stands for a map points collection.
  * <p></p>
- * <hr><b>&copy; Copyright 2008 Guidebee Pty Ltd. All Rights Reserved.</b>
+ * <hr><b>&copy; Copyright 2008 Guidebee Pty Ltd. </b>
  * @version     2.00, 03/01/08
  * @author      Guidebee Pty Ltd.
  */
