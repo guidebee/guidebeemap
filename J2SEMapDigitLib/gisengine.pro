@@ -1,6 +1,6 @@
 -injars      dist\J2SEMapDigitLib.jar(com/mapdigit/**)
 -outjars     dist\libgisengine.jar
--libraryjars  "C:/Program Files (x86)/Java/jdk1.6.0_16/jre/lib/rt.jar"
+-libraryjars  "C:/Program Files (x86)/Java/jdk1.6.0_39/jre/lib/rt.jar"
 
 -renamesourcefileattribute SourceFile
 -overloadaggressively
